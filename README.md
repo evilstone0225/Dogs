@@ -1,2 +1,2 @@
-# Dogs
+# Dogs & Cats
 This is my practice repository...
